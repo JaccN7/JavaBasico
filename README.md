@@ -7,8 +7,8 @@
 <h1 align="center">Java Básico Sesiones - OpenBootcamp</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/JaccN7/cursojavabasico?color=8D2EE7">
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/JaccN7/cursojavabasico?color=8D2EE7">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/JaccN7/JavaBasico?color=8D2EE7">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/JaccN7/JavaBasico?color=8D2EE7">
 </p>
 
 <!-- Status -->
