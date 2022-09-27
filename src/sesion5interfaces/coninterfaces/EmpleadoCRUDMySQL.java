@@ -1,10 +1,11 @@
-package sesion5.interfaces.coninterfaces;
+package sesion5interfaces.coninterfaces;
 
-import sesion5.interfaces.sininterfaces.Empleado;
+import sesion5interfaces.sininterfaces.Empleado;
 
 import java.util.List;
 
-public class EmpleadoCRUDExcel implements EmpleadoCRUD{
+public class EmpleadoCRUDMySQL implements EmpleadoCRUD{
+
     @Override
     public void save(Empleado empleado) {
 

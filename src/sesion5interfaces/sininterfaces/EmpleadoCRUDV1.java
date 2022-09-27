@@ -1,6 +1,4 @@
-package sesion5.interfaces.sininterfaces;
-
-import sesion5.interfaces.sininterfaces.Empleado;
+package sesion5interfaces.sininterfaces;
 
 import java.util.ArrayList;
 import java.util.List;

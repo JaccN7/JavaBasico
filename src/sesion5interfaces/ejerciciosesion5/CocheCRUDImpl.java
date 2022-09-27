@@ -1,4 +1,4 @@
-package sesion5.interfaces.ejerciciosesion5;
+package sesion5interfaces.ejerciciosesion5;
 
 import java.util.List;
 

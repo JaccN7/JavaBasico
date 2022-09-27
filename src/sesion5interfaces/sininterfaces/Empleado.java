@@ -1,4 +1,4 @@
-package sesion5.interfaces.sininterfaces;
+package sesion5interfaces.sininterfaces;
 
 public class Empleado {
 

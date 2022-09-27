@@ -1,7 +1,4 @@
-package sesion5.interfaces.sininterfaces;
-
-import sesion5.interfaces.sininterfaces.Empleado;
-import sesion5.interfaces.sininterfaces.EmpleadoCRUDV1;
+package sesion5interfaces.sininterfaces;
 
 import java.util.List;
 
