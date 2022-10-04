@@ -4,7 +4,7 @@ package sesion9entradasalida.ejerciciosesion9;
  * Crea un array bidimensional de enteros y recórrelo, mostrando la posición y el valor de cada elemento en ambas dimensiones.
  */
 
-public class ArrayBidimensional {
+public class EjercicioArrayBidimensional {
     public static void main(String[] args){
         int[][] numeros = new int[2][3];
 

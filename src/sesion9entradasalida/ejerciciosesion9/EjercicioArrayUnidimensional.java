@@ -4,7 +4,7 @@ package sesion9entradasalida.ejerciciosesion9;
  * Crea un array unidimensional de Strings y recórrelo, mostrando únicamente sus valores.
  */
 
-public class ArrayUnidimensional {
+public class EjercicioArrayUnidimensional {
     public static void main(String[] args){
 
         String[] palabras = new String[5];
