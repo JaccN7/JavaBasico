@@ -33,6 +33,6 @@ public class Persona {
 
     @Override
     public String toString() {
-        return this.nombre + " tiene " + this.edad + " años, y su numero de telefono es " + this.telefono;
+        return this.nombre + " tiene " + this.edad + " años, y su numero de telefono es " + this.telefono + ".";
     }
 }

@@ -8,5 +8,13 @@ public class EjercicioEncapsulacion {
         persona.setTelefono("+56900000000");
 
         System.out.println(persona);
+
+        Cliente cliente = new Cliente();
+        cliente.setEdad(30);
+        cliente.setNombre("Nathalia");
+        cliente.setTelefono("+56900000001");
+        cliente.setCredito(true);
+
+        System.out.println(cliente);
     }
 }
